@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pasteleria.Domain", "src\Pasteleria.Domain\Pasteleria.Domain.csproj", "{1B6E2A10-0001-4A1E-9C11-000000000001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pasteleria.Application", "src\Pasteleria.Application\Pasteleria.Application.csproj", "{1B6E2A10-0002-4A1E-9C11-000000000002}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pasteleria.Infrastructure", "src\Pasteleria.Infrastructure\Pasteleria.Infrastructure.csproj", "{1B6E2A10-0003-4A1E-9C11-000000000003}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pasteleria.API", "src\Pasteleria.API\Pasteleria.API.csproj", "{1B6E2A10-0004-4A1E-9C11-000000000004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B6E2A10-0001-4A1E-9C11-000000000001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E2A10-0001-4A1E-9C11-000000000001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E2A10-0001-4A1E-9C11-000000000001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E2A10-0001-4A1E-9C11-000000000001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E2A10-0002-4A1E-9C11-000000000002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E2A10-0002-4A1E-9C11-000000000002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E2A10-0002-4A1E-9C11-000000000002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E2A10-0002-4A1E-9C11-000000000002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E2A10-0003-4A1E-9C11-000000000003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E2A10-0003-4A1E-9C11-000000000003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E2A10-0003-4A1E-9C11-000000000003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E2A10-0003-4A1E-9C11-000000000003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E2A10-0004-4A1E-9C11-000000000004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E2A10-0004-4A1E-9C11-000000000004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6E2A10-0004-4A1E-9C11-000000000004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6E2A10-0004-4A1E-9C11-000000000004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
